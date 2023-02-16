@@ -43,6 +43,9 @@ The r -squared value of our linear regression model is 0.71 which means that rou
 
 ### Output of Summary Statistics
 
+![total_summary.png](total_summary.png)
+
+![lot_summary.png](lot_summary.png)
 
 ### Analysis
 
