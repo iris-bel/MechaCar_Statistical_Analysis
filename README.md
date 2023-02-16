@@ -8,7 +8,7 @@ The purpose of this analysis is to review the production data of the MechaCar mo
 
 ### Output of linear regression
 
-Call:
+Call
 lm(formula = mpg ~ vehicle_length + vehicle_weight + spoiler_angle + 
     ground_clearance + AWD, data = MechaCar_mpg)
 
@@ -24,7 +24,7 @@ vehicle_weight    1.245e-03  6.890e-04   1.807   0.0776 .
 spoiler_angle     6.877e-02  6.653e-02   1.034   0.3069    
 ground_clearance  3.546e+00  5.412e-01   6.551 5.21e-08 ***
 AWD              -3.411e+00  2.535e+00  -1.346   0.1852    
----
+
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 8.774 on 44 degrees of freedom
